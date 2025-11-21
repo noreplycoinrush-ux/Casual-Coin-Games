@@ -1,0 +1,5 @@
+{
+  "name": "Casual Coin Games",
+  "description": "A web application featuring three casual 10-second games where users can play to earn coins, track their balance, and redeem rewards. It includes user authentication, daily play limits, and an ad bonus system, all integrated with Firebase.",
+  "requestFramePermissions": []
+}
